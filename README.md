@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @CodingNoobDev
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me (deezhardnuts1999@gmail.com)
+     []  ,----.___
+   __||_/___      '.
+  / O||    /|       )
+ /   ""   / /   =._/
+/________/ /
+|________|/   dew
 
 <!---
 CodingNoobDev/CodingNoobDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
